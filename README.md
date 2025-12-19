@@ -1,2 +1,2 @@
-# ProyectoDSIIParteI_Macedo
-Avance del proyecto final Coderhouse Data Science II
+# ProyectoDSIIParteIyII_Macedo
+Proyecto final Coderhouse Data Science II
